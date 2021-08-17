@@ -22,7 +22,7 @@ library(psych)
 #####################################################################
 ################# Path to the code directory ########################
 
-setwd("C:/Users/Utilisateur/Downloads/SarahLaure/These/axe1_adap/2021_article_CMMM_code/99_code_article_2021/Z_BBP/")
+setwd("...")
 
 #####################################################################
 ###################### Initialization ###############################
