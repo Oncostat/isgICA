@@ -1,10 +1,11 @@
 # isgICA
 Infinite sparse graphical independent component analysis (Variational Inference)
 
-
 These codes are the online material for the article:
 
 Rincourt SL, Michiels S, Drubay D. Complex Disease Individual Molecular Characterization Using Infinite Sparse Graphical Independent Component Analysis. Cancer Inform. 2022 Jul 15;21:11769351221105776. doi: [10.1177/11769351221105776](https://doi.org/10.1177%2F11769351221105776). PMID: 35860346; PMCID: PMC9290103.
+
+This article and this code are distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License, please cite this article if you used this code.
 
 Correspondance author : `damien.drubay@gustaveroussy.fr`
 
