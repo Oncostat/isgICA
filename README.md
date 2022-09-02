@@ -3,9 +3,8 @@ Infinite sparse graphical independent component analysis (Variational Inference)
 
 
 These codes are the online material for the article:
-  
-  Individual molecular characterization of complex diseases using infinite sparse graphical independent component analysis. \
-By Sarah-Laure Rincourt, Stefan Michiels and Damien Drubay
+
+Rincourt SL, Michiels S, Drubay D. Complex Disease Individual Molecular Characterization Using Infinite Sparse Graphical Independent Component Analysis. Cancer Inform. 2022 Jul 15;21:11769351221105776. doi: [10.1177/11769351221105776](https://doi.org/10.1177%2F11769351221105776). PMID: 35860346; PMCID: PMC9290103.
 
 Correspondance author : `damien.drubay@gustaveroussy.fr`
 
